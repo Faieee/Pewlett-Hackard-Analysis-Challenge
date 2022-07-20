@@ -16,4 +16,5 @@ As the "silver tsunami" takes effect, the majority of roles that need to be fill
 it is clear that there are pleny of employees to fill the ~25,000 Senior Engineer and Senior Staff positions from their corresponding non-senior positions.
 ### Viability of Mentorship Program
 ![](/Data/mentorship_departments.png)
+
 Querrying the members of the mentorship program by department shows a relatively healthy spread of qualified employees by department, with plenty of employees in the Development department to take care of all the future Engineering vacancies. By having these employees train replacement employees for Senior positions over the course of the next few years, these positions can be easily replenished.
