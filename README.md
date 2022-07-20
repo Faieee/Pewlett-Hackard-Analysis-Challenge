@@ -10,7 +10,9 @@ The .csv files present in the [Data](/Data) folder outline employees readying fo
 ## Summary
 ### Adressing the "Silver Tsunami"
 As the "silver tsunami" takes effect, the majority of roles that need to be filled are going to be in the Senior Engineering and Senior Staff positions. When looking at the current distributions of employees, 
+
 ![](/Data/current_titles.png)
+
 it is clear that there are pleny of employees to fill the ~25,000 Senior Engineer and Senior Staff positions from their corresponding non-senior positions.
 ### Viability of Mentorship Program
 ![](/Data/mentorship_departments.png)
