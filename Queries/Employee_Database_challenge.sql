@@ -50,3 +50,14 @@ FROM employees AS e
 WHERE (de.to_date = '9999-01-01')
 AND (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY e.emp_no;
+
+SELECT * FROM mentorship_eligibility;
+SELECT * FROM retiring_titles;
+
+-- current employees by title
+SELECT COUNT (e.emp_no), t.title
+INTO current_titles
+FROM employees AS e
+    LEFT JOIN titles AS t
+        ON (e.emp_no = t.emp_no)
+GROUP BY (t.title);
